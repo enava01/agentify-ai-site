@@ -1,2 +1,2 @@
-https://www.agentify-ai.net/*    https://agentify-ai.net/:splat    301!
-
+# Manual redirects are disabled to avoid loop conflicts with hosting provider.
+# Please set the Primary Domain in your hosting dashboard (Netlify/Vercel/etc).
